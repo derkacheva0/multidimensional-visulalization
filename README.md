@@ -10,3 +10,6 @@
 
 ## Результат работы:
 ![image](https://github.com/derkacheva0/multidimensional-visulalization/assets/90909098/90943164-7fc9-4ea4-ba7b-7c60d6dcc62b)
+
+## Легенда:
+![лицо](https://github.com/derkacheva0/multidimensional-visulalization/assets/90909098/db45f0ce-87f3-4426-9d82-238e89f2aa79)
